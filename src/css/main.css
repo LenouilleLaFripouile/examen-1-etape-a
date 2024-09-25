@@ -105,6 +105,7 @@ div {
   flex-wrap: wrap;
   padding: 2% 0px;
   align-items: center;
+  height: 60%;
   h1 {
     width: 50%;
     height: 50%;
